@@ -5,6 +5,7 @@
     "src/my-view1.html",
     "src/my-view2.html",
     "src/my-view3.html",
+    "src/my-new-view.html",
     "src/my-view404.html"
   ],
   "sources": [
@@ -17,6 +18,8 @@
     "bower_components/webcomponentsjs/*.js"
   ],
   "lint": {
-    "rules": ["polymer-2"]
+    "rules": [
+      "polymer-2"
+    ]
   }
 }
